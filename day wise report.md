@@ -5,3 +5,5 @@
 2.Shortlisting the properties to be added (AI,Weather,Time,BT)
 
 3.Finding the items required.
+
+4. Must require physical controls .
